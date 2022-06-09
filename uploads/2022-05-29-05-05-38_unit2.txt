@@ -1,0 +1,13 @@
+1-expertise
+2-decentralized
+3-sustainable
+4-account
+5-headquarte
+6-market
+
+expertise
+sustainable
+decentralized
+accountant
+headquarter
+market

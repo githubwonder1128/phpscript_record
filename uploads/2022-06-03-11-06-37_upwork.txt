@@ -1,0 +1,31 @@
+email	:	am.irdbestdev@gmail.com
+name	:	Thomas Martin
+Password	:	upworkwonder123
+Street:  759 rue de la Gauchetière
+City:  Montreal
+State/province/area:   Quebec
+Phone number  514-870-8357
+Zip code  H3B 2M3
+Country calling code  +1
+Country  Canada
+Skills  :
+Blockchain, Game, Blockchain Architecture, Smart Contract, Solidity, Decentralized Exchange,
+Centralized Exchange, NFT marketplace, NFT minting, Ethereum, Binance NFT, Layer 2 Blockchain, React, Web3.js, Vue.js, Dapp Development
+
+
+Bio
+
+Hello, there!
+
+As an experienced Blockchain & Full Stack developer, I can provide you amazing service with my solid technical skills and communication skills.
+
+I have deep knowledge in DeFi, Dex, Bridge, NFT Marketplace, NFT Minting, NFT staking, and Centeralized Exchange.
+And I have developed many full stack dapps from scratch using React.js and Vue.js.
+
+Especially I like game development very much and implemented NFT marketplace to the games such as Nostal games.
+
+I believe that people should do things in which they are good at or in which their heart lays. That's why I chose freelancing as my career because I am confident that I am good at this field and I am never afraid of doing hard work.
+
+I am sure that if you hire me, I will present many successful projects with minimal efforts from your side.
+
+Please hire me.
